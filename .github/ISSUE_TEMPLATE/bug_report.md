@@ -1,23 +1,31 @@
 ---
-name: Bug report
+name: 🐛 Bug report
 about: Create a report to help us improve
-
 ---
 
-> Before filling out an issue, be sure to check the version of react-native-elements you are using and the docs for that version over [here](https://react-native-training.github.io/react-native-elements/versions.html).
+<!--
+Before filling out an issue:
+1. A bug means that there is something broken or outside expectations in react-native-elements. If you only need help writing your own components, check out the [Slack channel](https://react-native-elements-slack.herokuapp.com/) FIRST.
+2. If any section is left blank, there is a high possibility that the ticket will be closed. If you want your issue to get solved, you need to fill out ALL of the below fields. Otherwise, the ticket will likely be closed as not providing enough info.
+-->
 
-**Explain what you did**
-What you were trying to accomplish.
+**Explain what you did (Required)**
 
-**Expected behaviour**
-A clear and concise description of what you expected to happen.
+<!-- What you were trying to accomplish. -->
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Expected behavior (Required)**
 
-**To Reproduce**
+<!-- A clear and concise description of what you expected to happen. -->
+
+**Describe the bug (Required)**
+
+<!--  A clear and concise description of what the bug is. -->
+
+**To Reproduce (Required)**
+
 We highly recommend that you re-create the bug on [Snack](https://snack.expo.io). If not, list the steps that a reviewer can take to reproduce the behaviour:
 
+<!--
 Example:
 
 ```bash
@@ -30,17 +38,15 @@ https://snack.expo.io/xxx
 3. Scroll down to '....'
 4. See error
 ```
+-->
 
-**Possible Solution**
-Can you suggest a possible fix that would address this issue?
+**Screenshots (Required)**
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+<!-- If applicable, add screenshots to help explain your problem. -->
 
-**Your Environment (please complete the following information):**
+**Your Environment (Required):**
 
-| software | version |
-| -- | -- |
-| react-native-elements | |
-| react-native | |
-| npm or yarn | |
+| software              | version |
+| --------------------- | ------- |
+| react-native-elements |         |
+| react-native          |         |
